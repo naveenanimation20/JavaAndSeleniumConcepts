@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="127202" started-at="2018-07-01T07:22:46Z" finished-at="2018-07-01T07:24:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="127202" started-at="2018-07-01T07:22:46Z" finished-at="2018-07-01T07:24:53Z">
+      <class name="testcases.JqueryGrowl">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.JqueryGrowl@3eb25e1a]" name="setUp" is-config="true" duration-ms="1793" started-at="2018-07-01T07:22:46Z" finished-at="2018-07-01T07:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="growlTest()[pri:0, instance:testcases.JqueryGrowl@3eb25e1a]" name="growlTest" duration-ms="125382" started-at="2018-07-01T07:22:48Z" finished-at="2018-07-01T07:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- growlTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.JqueryGrowl@3eb25e1a]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-01T07:24:53Z" finished-at="2018-07-01T07:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.JqueryGrowl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
